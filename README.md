@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ferbernanda
+- 👋 Hi, I’m @Fernandaroeg
 - 👀 I’m interested in navigation algorithms.
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on ...
